@@ -232,14 +232,12 @@
     }
 
     .top-destinations__items {
-      list-style-type: none;
       display: flex;
       gap: 20px;
 
       &__card {
         width: 310px;
         height: 553px;
-        overflow: hidden;
       }
 
       &__card:hover {
